@@ -27,7 +27,7 @@ contains at least three closed issues.
 ## Acceptance evidence
 
 For every task, place acceptance evidence in `submissions/`. Accepted formats
-are PNG, JPG, JPEG, and PDF. The filename must contain the corresponding task
+are Pi;kNG, JPG, JPEG, and PDF. The filename must contain the corresponding task
 number (`task1`, `task2`, `task3`, or `task4`). Suggested filenames appear
 below.
 
